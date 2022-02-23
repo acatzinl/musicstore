@@ -1,0 +1,6 @@
+/infrastucturedomain/eureka/nbactions.xml
+/infrastucturedomain/configserver/nbactions.xml
+/businessdomain/transaction/nbactions.xml
+/businessdomain/customer/nbactions.xml
+/businessdomain/product/nbactions.xml
+businessdomain/customer/nbactions.tmp
