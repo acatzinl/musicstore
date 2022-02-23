@@ -13,6 +13,7 @@
     <modules>
         <module>eureka</module>
         <module>adminserver</module>
+        <module>configserver</module>
     </modules>
     <properties>
         <spring-cloud-dependencies.version>2021.0.0</spring-cloud-dependencies.version>
